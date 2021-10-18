@@ -1,0 +1,19 @@
+{
+    "events":[
+        {
+            "evento": "Evento muito bacana",
+            "data": "2021-06-27",
+            "descrição": "Aqui vai uma descrição bacana.",
+            "responsáveis": ["Fulano", "Ciclano"],
+            "duração": "1"
+        },
+        {
+            "evento": "Outro evento legal",
+            "data": "2021-06-28",
+            "descrição": "Vai ser um evento muito show!",
+            "responsáveis": ["Fulano", "Beltrano"],
+            "duração": "2",
+            "cor": "azul"
+        }
+    ]
+}
